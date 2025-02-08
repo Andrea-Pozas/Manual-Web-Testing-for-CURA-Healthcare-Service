@@ -8,3 +8,7 @@ CURA Healthcare Service es una web especializada en agendar citas médicas para 
 ## Herramientas
 ![Static Badge](https://img.shields.io/badge/Excel-black?style=for-the-badge&logoColor=white&color=%233CB371) ![Static Badge](https://img.shields.io/badge/DevTools-black?style=for-the-badge)
 
+
+:arrow_right:__Si deseas observar las listas de comprobación y los casos de prueba da clic aquí:__  https://docs.google.com/spreadsheets/d/1ivS_vtRZrbUrXFsLUa5TbBY0RfO3-wOMol573i7Z8no/edit?usp=sharing
+
+
