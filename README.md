@@ -15,7 +15,7 @@ CURA Healthcare Service es una web especializada en agendar citas médicas para 
 CURA Healthcare Service es una plataforma que permite al usuario reservar una cita medica de manera más cómoda y eficaz.La página web tiene una interfaz intuitiva lo que favorece su interacción al ser amigable con la persona que lo utiliza. Aunque Urban Routes contiene elementos que le permiten al usuario simplicar el proceso de reverva de citas al interactuar con el formulario de reverva se presentan algunos errores importantes de funcionalidad que deberían ser solucionados, por ejemplo:
 
 - Cuando el usuario elige la fecha de reserva para cita se pueden seleccionar fechas pasadas en el calendario. https://github.com/Andrea-Pozas/Manual-Web-Testing-for-CURA-Healthcare-Service/issues/1 📌
-- Es posible agendar citas con una fecha pasada 📌
+- Es posible agendar citas con una fecha pasada https://github.com/Andrea-Pozas/Manual-Web-Testing-for-CURA-Healthcare-Service/issues/2 📌
 
 Así mismo hay errores que hacen menos cómoda la experiencia del usuario. Tales como: 
 - El ícono de Facebook lleva a la página de facebook de Cura Healthcare📌
