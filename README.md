@@ -23,5 +23,17 @@ Así mismo hay errores que hacen menos cómoda la experiencia del usuario. Tales
 
 A pesar de que Cura Healthcare podría ofrecer un buen servicio al consumidor gracias a sus diferentes elementos. Aún no está lista para que los usuarios y usarías comiencen a interactuar con la plataforma ya que los errores de funcionalidad podrían ocasionar que el usuario decida abandonar la aplicación. Así mismo, La plataforma perdería tráfico a sus otras redes al no funcionar el ícono que lleva al enlace de cada página.
 
+## Results
+CURA Healthcare Service is a platform that allows users to book a medical appointment more comfortably and efficiently. The website has an intuitive interface that enhances interaction by being user-friendly. Although Urban Routes contains elements that allow users to simplify the appointment booking process, there are some significant functionality errors when interacting with the booking form that should be addressed, such as:
+
+- When the user selects the appointment booking date, past dates can be chosen in the calendar. 📌
+- It is possible to schedule appointments for a past date. 📌
+
+Additionally, there are errors that make the user experience less comfortable. Such as:
+- The Facebook icon leads to the Cura Healthcare Facebook page. 📌
+- The Twitter (X) icon leads to the Cura Healthcare X account. 📌
+
+Although Cura Healthcare could offer good customer service thanks to its various elements, it is not yet ready for users to start interacting with the platform, as functionality errors could cause users to abandon the application. Likewise, the platform would lose traffic to its other networks as the icon links to each page are not working.
+
 
 
