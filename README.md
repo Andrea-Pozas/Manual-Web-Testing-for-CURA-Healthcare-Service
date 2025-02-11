@@ -26,8 +26,8 @@ A pesar de que Cura Healthcare podría ofrecer un buen servicio al consumidor gr
 ## Results
 CURA Healthcare Service is a platform that allows users to book a medical appointment more comfortably and efficiently. The website has an intuitive interface that enhances interaction by being user-friendly. Although Urban Routes contains elements that allow users to simplify the appointment booking process, there are some significant functionality errors when interacting with the booking form that should be addressed, such as:
 
-- When the user selects the appointment booking date, past dates can be chosen in the calendar. 📌
-- It is possible to schedule appointments for a past date. 📌
+- When the user selects the appointment booking date, past dates can be chosen in the calendar. https://github.com/Andrea-Pozas/Manual-Web-Testing-for-CURA-Healthcare-Service/issues/3 📌
+- It is possible to schedule appointments for a past date. https://github.com/Andrea-Pozas/Manual-Web-Testing-for-CURA-Healthcare-Service/issues/4 📌
 
 Additionally, there are errors that make the user experience less comfortable. Such as:
 - The Facebook icon leads to the Cura Healthcare Facebook page. 📌
